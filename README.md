@@ -1,5 +1,5 @@
 # TEMPLATE (carga de Novedades)
-![Alt text](./src/ico/logo.svg "Cargade Novedades")
+
 
 ## Install por primera vez
 > `npm install`
